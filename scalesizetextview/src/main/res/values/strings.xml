@@ -1,0 +1,8 @@
+<resources>
+    <string name="scale_textsize_title">文字大小</string>
+    <string name="scale_textsize_discription_normal">标准</string>
+    <string name="scale_textsize_discription_small">小</string>
+    <string name="scale_textsize_discription_large">大</string>
+    <string name="scale_textsize_discription_xlarge">特大</string>
+    <string name="scale_textsize_discription_xxlarge">超大</string>
+</resources>
